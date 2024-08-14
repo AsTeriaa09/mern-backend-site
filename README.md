@@ -1,8 +1,8 @@
-MERN Backend Project
+## MERN Backend Project
 This is the backend part of a MERN stack application that provides various features like user authentication, data fetching, contact form management, and an admin panel.
 
-Features
-User Authentication:
+## Features
+** User Authentication: **
 
 Login and Logout functionalities using JWT (JSON Web Token).
 Passwords are securely hashed using bcrypt.
