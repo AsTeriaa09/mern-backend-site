@@ -2,20 +2,20 @@
 This is the backend part of a MERN stack application that provides various features like user authentication, data fetching, contact form management, and an admin panel.
 
 ## Features
-** User Authentication: **
-
+**User Authentication:**
 Login and Logout functionalities using JWT (JSON Web Token).
 Passwords are securely hashed using bcrypt.
-Data Fetching:
 
+**Data Fetching:**
 Fetch data from the database using Mongoose.
 Contact Management:
 
 Submit and manage contact forms.
-Admin Panel:
 
+**Admin Panel:**
 Admin-level operations for managing users and data.
-Technologies Used
+
+**Technologies Used**
 Node.js & Express.js: For creating a robust REST API.
 MongoDB & Mongoose: For data storage and management.
 JWT: For secure authentication.
