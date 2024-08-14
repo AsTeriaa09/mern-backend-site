@@ -15,12 +15,20 @@ Submit and manage contact forms.
 **Admin Panel:**
 Admin-level operations for managing users and data.uses crud operation
 
-**Technologies Used**
-**Node.js & Express.js:** For creating a robust REST API.
-**MongoDB & Mongoose:** For data storage and management.
-**JWT:** For secure authentication.
-**bcrypt:** For password hashing.
-**dotenv:** For environment variable management.
-**cors:** For handling Cross-Origin Resource Sharing.
-**zod:** For validation of data.
-**nodemon:** For hot reloading during development.
+## Technologies Used ##
+**Node.js & Express.js:** 
+For creating a robust REST API.
+**MongoDB & Mongoose:**
+For data storage and management.
+**JWT:**
+For secure authentication.
+**bcrypt:**
+For password hashing.
+**dotenv:**
+For environment variable management.
+**cors:** 
+For handling Cross-Origin Resource Sharing.
+**zod:** 
+For validation of data.
+**nodemon:**
+For hot reloading during development.
